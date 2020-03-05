@@ -86,5 +86,6 @@ data = pytesseract.image_to_string(thresh, lang='eng', boxes=False, \
 
 ```
 
+Hire me please email me : kamruljpi@gmail.com
 
 
