@@ -23,7 +23,7 @@ pip install pytesseract
 ```
 Python 3:
 ```
-pip install pytesseract
+pip3 install pytesseract
 ```
 
 Then run these commands to show the text：
